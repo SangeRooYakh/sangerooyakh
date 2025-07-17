@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**SangeRooYakh/sangerooyakh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer passionate about using technology to bridge knowledge gaps. My primary focus is on leveraging AI and automation to make scientific and cultural content more accessible to Persian-speaking audiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🔭 I’m currently working on:
+
+- **MokhberAi:** An automated pipeline that finds interesting scientific articles, uses an LLM to summarize them into casual Persian, and posts them to Telegram channel.
+
+#### 🌱 I’m currently learning:
+
+- Advanced prompt engineering for LLMs.
+- Ethical web scraping and API usage best practices.
+
+#### 📫 How to reach me:
+
+- You can open an issue on my project repositories if you have suggestions or find a bug.
+
+---
